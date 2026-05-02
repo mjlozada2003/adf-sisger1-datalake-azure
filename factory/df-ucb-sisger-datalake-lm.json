@@ -1,0 +1,15 @@
+{
+	"name": "df-ucb-sisger-datalake-lm",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "chilecentral",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "ed4be4d7-790c-4ccc-857a-4132d2e744aa",
+		"tenantId": "cc28633f-12b8-46cb-bc15-951dae239b4d"
+	}
+}
